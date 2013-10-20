@@ -9,6 +9,6 @@ find-lost-ppl is a random-walk implementation of finding a lost person in a crow
 Examples
 --------
 
-![N = 3](https://raw.github.com/eddotman/find-lost-ppl/master/fig2.png)
+![N = 3](https://raw.github.com/eddotman/find-lost-ppl/master/fig2.png "N=3")
 
-![N = 6](https://raw.github.com/eddotman/find-lost-ppl/master/fig1.png)
+![N = 6](https://raw.github.com/eddotman/find-lost-ppl/master/fig1.png "N=6")
